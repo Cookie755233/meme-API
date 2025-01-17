@@ -1,0 +1,143 @@
+{
+    "meme_images": {
+        "why-are-you-running": {
+            "file_name": "why-are-you-running.jpg",
+            "title": "why-are-you-running",
+            "width": 500,
+            "height": 444,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpg",
+                "dimensions": "500x444"
+            },
+            "tags": [
+                "run",
+                "running"
+            ],
+            "language": "en"
+        },
+        "why-are-you-gay-staring": {
+            "file_name": "why-are-you-gay-staring.jpeg",
+            "title": "why-are-you-gay-staring",
+            "width": 258,
+            "height": 195,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpeg",
+                "dimensions": "258x195"
+            },
+            "tags": [
+                "gay",
+                "stare",
+                "staring"
+            ],
+            "language": "en"
+        },
+        "show-us-your-butthole": {
+            "file_name": "show-us-your-butthole.jpg",
+            "title": "show-us-your-butthole",
+            "width": 625,
+            "height": 415,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpg",
+                "dimensions": "625x415"
+            },
+            "tags": [
+                "butthole",
+                "show",
+                "us"
+            ],
+            "language": "en"
+        },
+        "ok": {
+            "file_name": "ok.jpeg",
+            "title": "ok",
+            "width": 500,
+            "height": 481,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpeg",
+                "dimensions": "500x481"
+            },
+            "tags": [
+                "ok"
+            ],
+            "language": "en"
+        },
+        "confusion-of-the-highest-order": {
+            "file_name": "confusion-of-the-highest-order.jpg",
+            "title": "confusion-of-the-highest-order",
+            "width": 700,
+            "height": 491,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpg",
+                "dimensions": "700x491"
+            },
+            "tags": [
+                "confusion",
+                "high",
+                "highest",
+                "order"
+            ],
+            "language": "en"
+        },
+        "no": {
+            "file_name": "no.gif",
+            "title": "no",
+            "width": 640,
+            "height": 640,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "gif",
+                "dimensions": "640x640"
+            },
+            "tags": [
+                "no"
+            ],
+            "language": "en"
+        },
+        "should-i-call-you-mistah": {
+            "file_name": "should-i-call-you-mistah.gif",
+            "title": "should-i-call-you-mistah",
+            "width": 640,
+            "height": 486,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "gif",
+                "dimensions": "640x486"
+            },
+            "tags": [
+                "call",
+                "mistah",
+                "should"
+            ],
+            "language": "en"
+        },
+        "nail-your-mom": {
+            "file_name": "nail-your-mom.jpeg",
+            "title": "nail-your-mom",
+            "width": 600,
+            "height": 654,
+            "box_count": 2,
+            "properties": {
+                "type": "image",
+                "format": "jpeg",
+                "dimensions": "600x654"
+            },
+            "tags": [
+                "mom",
+                "nail"
+            ],
+            "language": "en"
+        }
+    }
+}

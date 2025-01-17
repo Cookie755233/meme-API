@@ -1,0 +1,7 @@
+Flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+cloudinary==1.39.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.0
+gunicorn==21.2.0

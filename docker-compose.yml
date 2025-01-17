@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "5001:5001"
+    environment:
+      - CLOUDINARY_URL=${CLOUDINARY_URL}
+    volumes:
+      - ./_images:/app/_images
+    restart: unless-stopped 
