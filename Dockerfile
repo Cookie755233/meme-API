@@ -7,6 +7,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-EXPOSE 5001
+EXPOSE 10000
 
-CMD ["gunicorn", "--config", "gunicorn_config.py", "app:app"] 
+CMD ["gunicorn", "--config", "gunicorn_config.py", "meme.app:app"] 

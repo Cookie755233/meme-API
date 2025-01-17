@@ -2,8 +2,9 @@ services:
   - type: web
     name: meme-api
     env: python
+    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn --config gunicorn_config.py app:app
+    startCommand: gunicorn --config gunicorn_config.py meme.app:app
     envVars:
       - key: CLOUDINARY_URL
         sync: false 
